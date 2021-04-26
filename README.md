@@ -15,6 +15,7 @@ This project was for implementing mini Linux os with C language.
 You can also use all the options of commands above.
 
 ## Examples   
+![image](https://user-images.githubusercontent.com/75755156/116032180-29b78700-a69a-11eb-924c-ed16293bda11.png)
 
 
 ##Tools
